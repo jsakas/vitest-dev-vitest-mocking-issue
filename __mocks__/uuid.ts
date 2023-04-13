@@ -1,1 +1,1 @@
-const v4 = () => 'generated-id'
+export const v4 = () => 'generated-id'
