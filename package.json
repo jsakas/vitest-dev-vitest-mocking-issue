@@ -16,5 +16,8 @@
   },
   "stackblitz": {
     "startCommand": "npm run test:ui"
+  },
+  "dependencies": {
+    "uuid": "^9.0.0"
   }
 }
